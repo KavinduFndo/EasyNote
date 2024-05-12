@@ -7,9 +7,9 @@
     <string name="image">image</string>
     <string name="enter_the_title">Enter the title</string>
     <string name="enter_the_description">Enter the description</string>
-    <string name="add_task">Add Task.</string>
+    <string name="add_task">Add Note.</string>
     <string name="editfab">editFab</string>
-    <string name="edit_task">Edit Task.</string>
-    <string name="task_title">Task Title</string>
+    <string name="edit_task">Edit Note.</string>
+    <string name="task_title">Note Title</string>
     <string name="description">Description</string>
 </resources>
